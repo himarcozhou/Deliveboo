@@ -201,8 +201,8 @@ let app = new Vue({
 
                 if(this.year_target_progress >= 100){
                     document.getElementById("checkTarget").classList.remove('fa-times-circle');
-                    document.getElementById("TargetSainato").classList.add('sainato-approved');
-                    // document.getElementById("checkTarget").classList.add('fa-check-circle');    
+                    // document.getElementById("TargetSainato").classList.add('sainato-approved'); EASTER EGG
+                    document.getElementById("checkTarget").classList.add('fa-check-circle');    
                 }
 
 

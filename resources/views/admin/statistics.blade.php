@@ -73,8 +73,7 @@
                     </div>
                     <div class="col-auto">
                         <i id="checkTarget" class="fas fa-times-circle fa-2x text-gray-300"></i>
-                        <div id="TargetSainato"></div>
-                        {{-- <i class="fas fa-check-circle fa-2x text-gray-300"></i> --}}
+                        {{-- <div id="TargetSainato"></div> EASTER EGG--}}
                     </div>
                 </div>
             </div>
