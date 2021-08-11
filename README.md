@@ -15,6 +15,8 @@ Requirement
 - npm install 
 - npm run watch
 - migrate:fresh --seed
+- php artisan storage:link
+- php artisan serve 
 
 ## Functionalities
 
